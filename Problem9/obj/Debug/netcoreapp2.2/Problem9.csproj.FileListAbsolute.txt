@@ -1,0 +1,11 @@
+/home/ckmaster/repos/ProjectEuler/Problem9/obj/Debug/netcoreapp2.2/Problem9.csprojAssemblyReference.cache
+/home/ckmaster/repos/ProjectEuler/Problem9/obj/Debug/netcoreapp2.2/Problem9.csproj.CoreCompileInputs.cache
+/home/ckmaster/repos/ProjectEuler/Problem9/obj/Debug/netcoreapp2.2/Problem9.AssemblyInfoInputs.cache
+/home/ckmaster/repos/ProjectEuler/Problem9/obj/Debug/netcoreapp2.2/Problem9.AssemblyInfo.cs
+/home/ckmaster/repos/ProjectEuler/Problem9/bin/Debug/netcoreapp2.2/Problem9.deps.json
+/home/ckmaster/repos/ProjectEuler/Problem9/bin/Debug/netcoreapp2.2/Problem9.runtimeconfig.json
+/home/ckmaster/repos/ProjectEuler/Problem9/bin/Debug/netcoreapp2.2/Problem9.runtimeconfig.dev.json
+/home/ckmaster/repos/ProjectEuler/Problem9/bin/Debug/netcoreapp2.2/Problem9.dll
+/home/ckmaster/repos/ProjectEuler/Problem9/bin/Debug/netcoreapp2.2/Problem9.pdb
+/home/ckmaster/repos/ProjectEuler/Problem9/obj/Debug/netcoreapp2.2/Problem9.dll
+/home/ckmaster/repos/ProjectEuler/Problem9/obj/Debug/netcoreapp2.2/Problem9.pdb
