@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ckmaster/repos/ProjectEuler/Problem6/Problem6.csproj": {}
+  },
+  "projects": {
+    "/home/ckmaster/repos/ProjectEuler/Problem6/Problem6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ckmaster/repos/ProjectEuler/Problem6/Problem6.csproj",
+        "projectName": "Problem6",
+        "projectPath": "/home/ckmaster/repos/ProjectEuler/Problem6/Problem6.csproj",
+        "packagesPath": "/home/ckmaster/.nuget/packages/",
+        "outputPath": "/home/ckmaster/repos/ProjectEuler/Problem6/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/ckmaster/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

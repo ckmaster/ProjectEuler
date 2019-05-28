@@ -1,0 +1,11 @@
+/home/ckmaster/repos/ProjectEuler/Problem7/obj/Debug/netcoreapp2.2/Problem7.csprojAssemblyReference.cache
+/home/ckmaster/repos/ProjectEuler/Problem7/obj/Debug/netcoreapp2.2/Problem7.csproj.CoreCompileInputs.cache
+/home/ckmaster/repos/ProjectEuler/Problem7/obj/Debug/netcoreapp2.2/Problem7.AssemblyInfoInputs.cache
+/home/ckmaster/repos/ProjectEuler/Problem7/obj/Debug/netcoreapp2.2/Problem7.AssemblyInfo.cs
+/home/ckmaster/repos/ProjectEuler/Problem7/bin/Debug/netcoreapp2.2/Problem7.deps.json
+/home/ckmaster/repos/ProjectEuler/Problem7/bin/Debug/netcoreapp2.2/Problem7.runtimeconfig.json
+/home/ckmaster/repos/ProjectEuler/Problem7/bin/Debug/netcoreapp2.2/Problem7.runtimeconfig.dev.json
+/home/ckmaster/repos/ProjectEuler/Problem7/bin/Debug/netcoreapp2.2/Problem7.dll
+/home/ckmaster/repos/ProjectEuler/Problem7/bin/Debug/netcoreapp2.2/Problem7.pdb
+/home/ckmaster/repos/ProjectEuler/Problem7/obj/Debug/netcoreapp2.2/Problem7.dll
+/home/ckmaster/repos/ProjectEuler/Problem7/obj/Debug/netcoreapp2.2/Problem7.pdb
